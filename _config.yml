@@ -11,9 +11,9 @@ title                    : "Tianyi Xu's Website"
 title_separator          : "-"
 name                     : &name "Tianyi Xu"
 description              : &description "CS, DS & Math @ UW-Madison"
-url                      : https://tianyi0216.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianyi0216.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tianyi0216/tianyi0216.github.io"
+repository               : "tianyi0216.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
