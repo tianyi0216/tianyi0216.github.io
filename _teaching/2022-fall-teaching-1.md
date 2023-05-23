@@ -3,7 +3,7 @@ title: "Peer Mentor for CS 220"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
-venue: "University of Wisconsin, Department of Computer Science"
+venue: "University of Wisconsin-Madison, Department of Computer Science"
 date: 2022-09-01
 location: "Madison, WI"
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Peer Mentor for CS 320"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-2
-venue: "University of Wisconsin, Department of Computer Science"
+venue: "University of Wisconsin-Madison, Department of Computer Science"
 date: 2023-01-01
 location: "Madison, WI"
 ---
