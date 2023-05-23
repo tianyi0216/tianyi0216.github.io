@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyi Xu's Website"
+title                    : "Tianyi Xu"
 title_separator          : "-"
 name                     : &name "Tianyi Xu"
 description              : &description "CS, DS & Math @ UW-Madison"
