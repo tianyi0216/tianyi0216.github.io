@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Most of the works that I have done is related to data science and machine learning research. I also have experience with full stack development. In addition, I am also involved with teaching and mentoring. See [research](https://tianyi0216.github.io/research/) and [teaching](https://tianyi0216.github.io/teaching/) for more details. Also see my [full CV](https://tianyi0216.github.io/cv/).
+Most of the works that I have done is related to data science and machine learning research. I also have experience with full stack development. In addition, I am also involved with teaching and mentoring through UW Madison CS's Peer Mentor program. See [research](https://tianyi0216.github.io/research/) and [teaching](https://tianyi0216.github.io/teaching/) for more details. Also see my [full CV](https://tianyi0216.github.io/cv/).
 
 ## Education
 
