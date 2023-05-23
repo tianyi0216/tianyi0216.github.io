@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Check my CV here: [CV](https://tianyi0216.github.io/files/tianyi_resume.pdf)
+Check my CV here: [CV](https://tianyi0216.github.io/files/resume_tianyi.pdf)
