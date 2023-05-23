@@ -20,22 +20,22 @@ Most of the works that I have done is related to data science and machine learni
 
 ## Work Experience
 
-* Undergraduate Research Assistant, Wisconsin Institute for Discovery, 2023 - Present.
+* **Undergraduate Research Assistant**, Wisconsin Institute for Discovery, 2023 - Present.
   * Research on effect of fumigation on microbiomes in soil.
   * Advisor: [Claudia Solís-Lemus](https://crsl4.github.io/pages/about.html).
 
-* Undergraduate Machine Learning Researcher, UW-Madison Material Sciences, 2023 - Present.
+* **Undergraduate Machine Learning Researcher**, UW-Madison Material Sciences, 2023 - Present.
   * Research on deep learning for medical image classification.
   * Advisor: [Dane Morgan](https://directory.engr.wisc.edu/mse/Faculty/Morgan_Dane/).
 
-* Undergraduate Teaching Assistant, UW-Madison Computer Sciences, 2023 - Present.
+* **Undergraduate Teaching Assistant**, UW-Madison Computer Sciences, 2023 - Present.
   * Peer Mentor for CS 320: Data Science Modeling II. (Spring 23, Summer 23)
   * Peer Mentor for CS 220: Data Science Modeling I. (Fall 22)
 
-* Student Developer, UW-Maidson Division of Information Technology, 2022.
+* **Student Developer**, UW-Maidson Division of Information Technology, 2022.
   * Developed an interal web application for UW-Madison DoIT Help Desk.
 
-* Support Specialist, UW-Madison Division of Information Technology, 2021-2022.
+* **Support Specialist**, UW-Madison Division of Information Technology, 2021-2022.
   * Provided technical support for UW-Madison students, faculty and staff.
 
 ## Skills
