@@ -4,7 +4,7 @@ title: "Experiences"
 permalink: /experiences/
 author_profile: true
 redirect_from: 
-  - /experiences/
+  - /experiences
   - /experiences.md
 ---
 
