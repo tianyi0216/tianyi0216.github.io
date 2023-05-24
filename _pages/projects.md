@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Check out my github repositories for all my projects: [Github](https://github.com/tianyi0216?tab=repositories).
+Check out my github repositories for what I am working on: [Github](https://github.com/tianyi0216?tab=repositories).
 
 I will be updating this page with more details soon.
 
