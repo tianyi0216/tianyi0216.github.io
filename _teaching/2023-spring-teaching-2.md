@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Madison, WI"
 ---
 
-I was a peer mentor for CS 320: [Data Science Modeling II](https://www.msyamkumar.com/cs320/s23/schedule.html) in Fall 2022. This was my second and favorite peer mentor job for CS Department. I will also be a peer mentor for Summer 23. I spent approximately 8 hrs per week for this job. 
+I was a peer mentor for CS 320: [Data Science Programming II](https://www.msyamkumar.com/cs320/s23/schedule.html) in Fall 2022. This was my second and favorite peer mentor job for CS Department. I will also be a peer mentor for Summer 23. I spent approximately 8 hrs per week for this job. 
 
 Instructor: Meenakshi Syamkumar, Yiyin Shen
 
