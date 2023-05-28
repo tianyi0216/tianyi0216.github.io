@@ -15,7 +15,7 @@ I have been playing trombone since 9. I studied in the [Qatar Music Academy](htt
 
 
 ## Football
-I am a fan of 2022-2023 Bundesliga winner [Borussia Dortmund](https://www.bvb.de/eng) since 2013. 
+I am a fan of [Borussia Dortmund](https://www.bvb.de/eng) since 2013. 
 
 
 ## Japanese Pop Culture

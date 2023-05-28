@@ -10,7 +10,7 @@ location: "Madison, WI"
 
 I was a peer mentor for CS 220: [Data Science Programming I](https://cs220.cs.wisc.edu/f22/schedule.html) in Fall 2022. This was my first peer mentor job for CS Department. I spent approximately 8 hrs per week for this job. 
 
-Instructor: Meenakshi Syakumar, Michael Doescher, Gurmail Singh
+Instructor: Meenakshi Syamkumar, Michael Doescher, Gurmail Singh
 
 Description
 ======
