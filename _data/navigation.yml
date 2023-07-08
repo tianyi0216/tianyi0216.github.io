@@ -20,6 +20,9 @@ main:
 
   - title: "Personal Interests"
     url: /miscellaneous/
+
+  - title: "Visits"
+    url: /visits/
     
 # main:
 #   - title: "Publications"
