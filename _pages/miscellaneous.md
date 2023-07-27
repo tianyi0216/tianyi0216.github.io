@@ -28,8 +28,9 @@ My favorite game studio is [KEY](https://key.visualarts.gr.jp/), a brand belongs
   * [CANOE - 多田葵](https://youtu.be/vvTiq7XamoU)
 
 * **Favorite Animes**:
-  * [四月は君の噓 Your Lie in April](https://www.kimiuso.jp/)
-  * [ダーリン・イン・ザ・フランキス Darling in the Franxx](https://darli-fra.jp/)
+  * [四月は君の噓/Your Lie in April](https://www.kimiuso.jp/)
+  * [ダーリン・イン・ザ・フランキス/Darling in the Franxx](https://darli-fra.jp/)
+  * [86-エイティシックス-/86 -Eighty Six-](https://anime-86.com/)
 
 * **Favorite Games**:
   * [Rewrite](https://key.visualarts.gr.jp/rewrite/)
