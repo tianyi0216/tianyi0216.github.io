@@ -32,7 +32,7 @@ Currently, my research focus on the application of data science, statistics and 
   * Advisor: [Claudia Solís-Lemus](https://crsl4.github.io/pages/about.html).
   * [Github Link](https://github.com/tianyi0216/Soundscape_Project) (Most work is still in progress)
 
-* **Deep Learning for Medical Image Classification** , Feb 2023 - Present
+* **Deep Learning for Medical Image Classification** , Feb 2023 - May 2023
   * This is my second research project. The project is about identify aggressive tumor features in Renal cell carcinoma using learning-based CV techniques. The previous group has extracted image slices with most learnable features (non-zeros on the image matrix). My job is to build and imporve a deep CNN to classify the images (high risk or low risk). 
   * Developed, and optimized a convolutional neural network using PyTorch for feature extraction from images. The original CNN and training process provided by the previous group has a testing accuracy of 60% and issue with overfitting. I have improved the CNN by adding more layers and dropout layers to prevent overfitting. I also optimized the training process and used batch normalization. The testing accuracy has been improved to 90-95%.
   * Evaluated the CNN performance using various techniques including compare against a random model, permutation tests, evaluate the performance on different datasets, confusion matrix, etc.
