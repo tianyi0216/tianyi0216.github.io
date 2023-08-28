@@ -16,7 +16,7 @@ Most of the works that I have done is related to data science and machine learni
 
 * B.S. in Computer Science, Data Science and Mathematics, University of Wisconsin-Madison, 2025 (expected).
   * GPA: 3.964/4.000
-  * Relevant Coursework: Advanced Algorithm, Data Structure, Artificial Intelligence, Machine Learning, Deep Learning, Computational Theory, Database Management System, Big Data System, Intro to Computer System, Discrete Math, Linear Algebra, Probability, Real Analysis, Data Science Modeling.
+  * Relevant Coursework (Taken and In Progress): Advanced Algorithm, Data Structure, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Database Management System, Big Data System, Intro to Computer System, Discrete Math, Linear Algebra, Probability, Real Analysis, Data Science Modeling.
 
 ## Work Experience
 
@@ -24,12 +24,12 @@ Most of the works that I have done is related to data science and machine learni
   * Research on effect of fumigation on microbiomes in soil.
   * Advisor: [Claudia Solís-Lemus](https://crsl4.github.io/pages/about.html).
 
-* **Undergraduate Machine Learning Researcher**, UW-Madison Material Sciences, 2023 - Present.
+* **Undergraduate Machine Learning Researcher**, UW-Madison Material Sciences, 2023.
   * Research on deep learning for medical image classification.
   * Advisor: [Dane Morgan](https://directory.engr.wisc.edu/mse/Faculty/Morgan_Dane/).
 
 * **Undergraduate Teaching Assistant**, UW-Madison Computer Sciences, 2022 - Present.
-  * Peer Mentor for CS 320: Data Science Modeling II. (Spring 23, Summer 23)
+  * Peer Mentor for CS 320: Data Science Modeling II. (Spring 23, Summer 23, Fall 23)
   * Peer Mentor for CS 220: Data Science Modeling I. (Fall 22)
 
 * **Student Developer**, UW-Maidson Division of Information Technology, 2022.
