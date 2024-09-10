@@ -12,8 +12,8 @@ main:
   - title: "Projects"
     url: /projects/
         
-  - title: "Blog"
-    url: https://tianyi0216.gitbook.io/blog/
+  # - title: "Blog"
+  #   url: https://tianyi0216.gitbook.io/blog/
     
   - title: "CV"
     url: /cv/
