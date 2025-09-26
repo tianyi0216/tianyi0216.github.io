@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by Prof. Junjie Hu and Prof. Claudia Solís-Lemus at UW–Madison and intern with the EPIC Lab at Shanghai Jiao Tong University, advised by Prof. Linfeng Zhang. I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao, and I’m fortunate to be mentored by Evan Gorstein, Jiongxiao Wang and Shaobo Wang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study data-efficient, controllable multimodal learning and invariance-driven representations, with applications to real-world problems such as bioacoustics and biomedicine. Specifically, my work focuses on:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. Representation Learning — Building invariance-driven multimodal representations across vision, audio, and language.
+
+2. Data-efficient and Data-Centric Learning — Learning from few/weak labels via self-supervision and weak/active supervision; LLM pretraining with data selection and domain-mix adaptation.
+
+3. Controllable Generative Models — Steering latent diffusion/rectified flow with conditioning for precise guidance under tight compute budgets, including vision-guided audio separation.
+
+4. Applications — Tone-robust speech representations (e.g., supporting hearing-impairment diagnostics), bioacoustic detection for biodiversity monitoring, and data toolkits/benchmarks for biomedical and clinical settings.
+
+I’m seeking Ph.D. opportunities for Fall 2026.
