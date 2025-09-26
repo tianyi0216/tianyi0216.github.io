@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='mailto:txu223@wisc.edu'>txu223@wisc.edu</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CDIS, University of Wisconsin–Madison</p>
+    <p>Madison, WI 53706</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,12 +20,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by Prof. Junjie Hu and Prof. Claudia Solís-Lemus at UW–Madison and intern with the EPIC Lab at Shanghai Jiao Tong University, advised by Prof. Linfeng Zhang. I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao, and I’m fortunate to be mentored by Evan Gorstein, Jiongxiao Wang and Shaobo Wang.
+I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by Prof. Junjie Hu[https://junjiehu.github.io/] and Prof. Claudia Solís-Lemus[https://solislemuslab.github.io//pages/people.html] at UW–Madison and intern with the EPIC Lab at Shanghai Jiao Tong University, advised by Prof. Linfeng Zhang[https://openreview.net/profile?id=~Linfeng_Zhang2]. I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao, and I’m fortunate to be mentored by Evan Gorstein[https://sites.google.com/view/evangorstein], Jiongxiao Wang[https://jiongxiao-wang.github.io/], and Shaobo Wang[https://gszfwsb.github.io/].
 
 I study data-efficient, controllable multimodal learning and invariance-driven representations, with applications to real-world problems such as bioacoustics and biomedicine. Specifically, my work focuses on:
 
