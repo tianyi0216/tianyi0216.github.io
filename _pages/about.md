@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by Prof. Junjie Hu[https://junjiehu.github.io/] and Prof. Claudia Solís-Lemus[https://solislemuslab.github.io//pages/people.html] at UW–Madison and intern with the EPIC Lab at Shanghai Jiao Tong University, advised by Prof. Linfeng Zhang[https://openreview.net/profile?id=~Linfeng_Zhang2]. I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao, and I’m fortunate to be mentored by Evan Gorstein[https://sites.google.com/view/evangorstein], Jiongxiao Wang[https://jiongxiao-wang.github.io/], and Shaobo Wang[https://gszfwsb.github.io/].
+I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by [Prof. Junjie Hu](https://junjiehu.github.io/) and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison and intern with the EPIC Lab at Shanghai Jiao Tong University, advised by [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2). I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao, and I’m fortunate to be mentored by [Evan Gorstein](https://sites.google.com/view/evangorstein), [Jiongxiao Wang](https://jiongxiao-wang.github.io/), and [Shaobo Wang](https://gszfwsb.github.io/).
 
 I study data-efficient, controllable multimodal learning and invariance-driven representations, with applications to real-world problems such as bioacoustics and biomedicine. Specifically, my work focuses on:
 
