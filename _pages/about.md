@@ -25,16 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by [Prof. Junjie Hu](https://junjiehu.github.io/) and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison and intern with the EPIC Lab at Shanghai Jiao Tong University, advised by [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2). I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao, and I’m fortunate to be mentored by [Evan Gorstein](https://sites.google.com/view/evangorstein), [Jiongxiao Wang](https://jiongxiao-wang.github.io/), and [Shaobo Wang](https://gszfwsb.github.io/).
+I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by [Prof. Junjie Hu](https://junjiehu.github.io/) and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison. I work closely with [Shaobo Wang](https://gszfwsb.github.io/) and [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2) at Shanghai Jiao Tong University. I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao.
 
-I study data-efficient, controllable multimodal learning and invariance-driven representations, with applications to real-world problems such as bioacoustics and biomedicine. Specifically, my work focuses on:
+I’m interested in building modern AI systems that are efficient, generalizable, and capable of understanding and acting across multiple modalities, especially under limited supervision and real-world constraints. Concretely, my work focuses on:
 
-1. Representation Learning — Building invariance-driven multimodal representations across vision, audio, and language.
+1. Data-centric & label-efficient learning — Designing methods for data selection, mixing, and self/weak supervision so that large-scale models can learn from noisy, heterogeneous data instead of only clean benchmarks.
 
-2. Data-efficient and Data-Centric Learning — Learning from few/weak labels via self-supervision and weak/active supervision; LLM pretraining with data selection and domain-mix adaptation.
+2. Foundation models & agents— Building and steering pretrained models (LLMs, VLMs, etc.) for specific tasks, with an emphasis on efficiency, reliability, and agentic behaviors such as planning, reasoning, and safe decision-making.
 
-3. Controllable Generative Models — Steering latent diffusion/rectified flow with conditioning for precise guidance under tight compute budgets, including vision-guided audio separation.
+3. Multimodal learning — Representation learning and building systems that perceive, act, and reason across different modalities.
 
-4. Applications — Tone-robust speech representations (e.g., supporting hearing-impairment diagnostics), bioacoustic detection for biodiversity monitoring, and data toolkits/benchmarks for biomedical and clinical settings.
+4. AI for science and society — Applying these ideas to real-world problems where data is scarce or noisy: biodiversity monitoring from soundscapes, tone-aware speech modeling for accessibility, and multimodal toolkits/benchmarks for biomedical and clinical AI.
 
 I’m seeking Ph.D. opportunities for Fall 2026.
