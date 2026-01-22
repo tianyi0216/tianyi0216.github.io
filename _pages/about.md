@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Tianyi Xu, a senior at the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics; expected Dec 2025). I am advised by [Prof. Junjie Hu](https://junjiehu.github.io/) and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison. I work closely with [Shaobo Wang](https://gszfwsb.github.io/) and [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2) at Shanghai Jiao Tong University. I’ve previously collaborated with Prof. Pedro Morgado and Prof. Chaowei Xiao.
+I’m Tianyi Xu, graduated from the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics). I am advised by [Prof. Junjie Hu](https://junjiehu.github.io/) at UW–Madison. I work closely with [Shaobo Wang](https://gszfwsb.github.io/) and [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2) at Shanghai Jiao Tong University, and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison.
 
 I’m interested in building modern AI systems that are efficient, generalizable, and capable of understanding and acting across multiple modalities, especially under limited supervision and real-world constraints. Concretely, my work focuses on:
 
