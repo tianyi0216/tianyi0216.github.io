@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:txu223@wisc.edu'>txu223@wisc.edu</a>
+subtitle: <a href='mailto:xut2@oregonstate.edu'>xut2@oregonstate.edu</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CDIS, University of Wisconsin–Madison</p>
-    <p>Madison, WI 53706</p>
+    <p>School of EECS, Oregon State University</p>
+    <p>Corvallis, OR 97331</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,16 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Tianyi Xu, graduated from the University of Wisconsin–Madison (B.S. in Computer Science, Data Science, and Mathematics). I am advised by [Prof. Junjie Hu](https://junjiehu.github.io/) at UW–Madison. I work closely with [Shaobo Wang](https://gszfwsb.github.io/) and [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2) at Shanghai Jiao Tong University, and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison.
+I’m Tianyi Xu, a first-year Ph.D. student in Computer Science at Oregon State University, advised by [Prof. Huazheng Wang](https://huazhengwang.github.io/). I graduated from the University of Wisconsin–Madison with a B.S. in Computer Science, Data Science, and Mathematics, where I worked with [Prof. Junjie Hu](https://junjiehu.github.io/). I also worked closely with [Shaobo Wang](https://gszfwsb.github.io/) and [Prof. Linfeng Zhang](https://openreview.net/profile?id=~Linfeng_Zhang2) at Shanghai Jiao Tong University, and [Prof. Claudia Solís-Lemus](https://solislemuslab.github.io/pages/people.html) at UW–Madison.
 
-I’m interested in building modern AI systems that are efficient, generalizable, and capable of understanding and acting across multiple modalities, especially under limited supervision and real-world constraints. Concretely, my work focuses on:
-
-1. Data-centric & label-efficient learning — Designing methods for data selection, mixing, and self/weak supervision so that large-scale models can learn from noisy, heterogeneous data instead of only clean benchmarks.
-
-2. Foundation models & agents— Building and steering pretrained models (LLMs, VLMs, etc.) for specific tasks, with an emphasis on efficiency, reliability, and agentic behaviors such as planning, reasoning, and safe decision-making.
-
-3. Multimodal learning — Representation learning and building systems that perceive, act, and reason across different modalities.
-
-4. AI for science and society — Applying these ideas to real-world problems where data is scarce or noisy: biodiversity monitoring from soundscapes, tone-aware speech modeling for accessibility, and multimodal toolkits/benchmarks for biomedical and clinical AI.
-
-I’m seeking Ph.D. opportunities for Fall 2026.
+**Research interests.** I develop efficient and adaptive methods for AI agents, spanning multi-agent systems, test-time training and adaptation, self-evolution, and data-centric AI, where capability, reliability, and compute efficiency must be jointly optimized.
